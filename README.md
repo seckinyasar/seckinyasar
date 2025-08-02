@@ -1,8 +1,6 @@
 ## React Developer
 
 - Contact me: contactseckin@gmail.com
-- Website: https://metakorteks.com/
-
 
 ### Social
 
