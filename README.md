@@ -1,5 +1,3 @@
-## React Developer
-
 - Contact me: contactseckin@gmail.com
 
 ### Social
