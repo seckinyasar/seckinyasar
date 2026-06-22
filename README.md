@@ -1,4 +1,4 @@
-- Contact me: contactseckin@gmail.com
+contactseckin@gmail.com
 
 ### Social
 
