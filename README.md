@@ -11,13 +11,9 @@
     </td>
     <td>
       <strong>Watch distraction free.</strong><br><br>
-      Sponsors, self-promo, filler, outros — skipped from the transcript while you watch.<br>
-      Get the extension and sign in. It takes 30 seconds.<br>
-      A 10-minute video typically takes around 10 seconds to analyze.<br><br>
-      <strong>v1.1 is live. 80%+ accuracy rate.</strong><br><br>
-      <a href="https://chromewebstore.google.com/detail/skip-to-the-point/gpfedecnfjejnffpomhigbghigpaichm?utm_source=github">Install the extension</a>
-      ·
-      <a href="https://skiptothepoint.app/?utm_source=github">Free. No credit card.</a>
+      Our browser extension analyzes the parts of a YouTube video that don't matter — sponsors, filler, outros, self-promo, and more — in the background and skips them for you. You won't even notice.<br><br>
+      <a href="https://chromewebstore.google.com/detail/skip-to-the-point/gpfedecnfjejnffpomhigbghigpaichm?utm_source=github">Install now →</a>
+      <a href="https://skiptothepoint.app/?utm_source=github"> Skip to the Point</a>
     </td>
   </tr>
 </table>
