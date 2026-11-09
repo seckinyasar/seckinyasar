@@ -14,9 +14,7 @@
     <td>
       <strong>Watch distraction free.</strong><br><br>
       Our browser extension analyzes the parts of a YouTube video that don't matter — sponsors, filler, outros, self-promo, and more — in the background and skips them for you. You won't even notice.<br><br>
-      <a href="https://skiptothepoint.app/?utm_source=github">Install now →</a>
-      ·
-      <a href="https://skiptothepoint.app/?utm_source=github">Free. No credit card.</a>
+      <a href="https://skiptothepoint.app/?utm_source=github">Skip to the Point →</a>
     </td>
   </tr>
 </table>
