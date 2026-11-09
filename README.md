@@ -7,13 +7,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://skiptothepoint.app/email-loader-cat.gif" width="148" alt="Skip to the Point">
+      <a href="https://skiptothepoint.app/?utm_source=github">
+        <img src="https://skiptothepoint.app/email-loader-cat.gif" width="148" alt="Skip to the Point">
+      </a>
     </td>
     <td>
       <strong>Watch distraction free.</strong><br><br>
       Our browser extension analyzes the parts of a YouTube video that don't matter — sponsors, filler, outros, self-promo, and more — in the background and skips them for you. You won't even notice.<br><br>
-      <a href="https://chromewebstore.google.com/detail/skip-to-the-point/gpfedecnfjejnffpomhigbghigpaichm?utm_source=github">Install now →</a>
-      <a href="https://skiptothepoint.app/?utm_source=github"> Skip to the Point</a>
+      <a href="https://skiptothepoint.app/?utm_source=github">Install now →</a>
+      ·
+      <a href="https://skiptothepoint.app/?utm_source=github">Free. No credit card.</a>
     </td>
   </tr>
 </table>
